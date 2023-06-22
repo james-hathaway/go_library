@@ -1,1 +1,1 @@
-# go_library
+I built this small project with a few purposes. For one, I was looking to get more work using hash maps and trees, as I know my technique with these data structures is not as strong as some of my others. I also wanted to explore more of the Go language, and continue to reinforce the syntax I have been attempting to teach myself. The project allows users to keep a record of books while being able to write and load a file to maintain this collection.
